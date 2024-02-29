@@ -32,8 +32,9 @@ The graphics version is a simple one floor map that is not complete, simply a pr
 
 Most likely the entire game will be revamped if it is to continue, but the game concept will remain the same and simple. 
 
-If you wish to run the graphics version, please run GraphicsMain.java
-If you wish to run the console version, please run either TextAdventure.java or TextAdventureTwoPointO.java
+If you wish to run the graphics version, please run [GraphicsMain.java](https://github.com/EmperorMurfy/Escape/blob/main/GraphicsMain.java)
+
+If you wish to run the console version, please run either [TextAdventure.java](https://github.com/EmperorMurfy/Escape/blob/main/TextAdventure.java) or [TextAdventureTwoPointO.java](https://github.com/EmperorMurfy/Escape/blob/main/TextAdventureTwoPointO.java)
 
 ## Requirements & Instructions
 * Any computer installed with a program to run java code (version 1.8) - was tested on Mac M1 Eclipse
