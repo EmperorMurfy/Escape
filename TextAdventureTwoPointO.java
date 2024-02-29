@@ -1,5 +1,10 @@
  
+// TextAdventureTwoPointO.java
 
+
+// Written by: Mason Z.
+// Modified Date: June 8th, 2023
+// Alternate version of the TextAdventure
 
 import java.util.Scanner;
 import java.util.Random;
