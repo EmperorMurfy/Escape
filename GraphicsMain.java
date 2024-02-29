@@ -1,8 +1,9 @@
 // GraphicsMain.java
 
-// Written by: Mason Zhu
-// Date: June 8th, 2023
-// This is the main class for a simple java program that uses graphics.  You do not need to edit this class. -> UNMODIFIED
+
+// Written by: Mason Z.
+// Modified Date: June 8th, 2023
+// Main Class for a simple java program with graphics
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -13,8 +14,8 @@ public class GraphicsMain extends JFrame{
 		{	
 			GraphicsMain window = new GraphicsMain();
 	        JPanel p = new JPanel();
-	        p.add(new GraphicsPanel());  //  add a class that extends JPanel
-	        window.setTitle("Graphics with a KeyListener");
+	        p.add(new GraphicsPanel());  
+	        window.setTitle("Escape");
 	        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	        window.setContentPane(p);
