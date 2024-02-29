@@ -1,4 +1,9 @@
- 
+// TextAdventure.java
+
+
+// Written by: Mason Z.
+// Modified Date: June 8th, 2023
+// TextAdventure class with Storyline Version - NO GRAPHICS ONLY CONSOLE
 
 
 import java.util.Scanner;
