@@ -1,7 +1,8 @@
 // Graphics Panel
-// Written by: Mason Zhu
-// Date: June 8th, 2023
-// This project is a basic level for a improved Text Adventure game with graphics
+
+// Written by: Mason Z.
+// Modified Date: June 8th, 2023
+// This project is a basic text-adventure game with graphics 
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
